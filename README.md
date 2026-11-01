@@ -61,11 +61,9 @@ This project started as an Excel analysis and was rebuilt in Python after I foun
 
 | File | Description |
 |---|---|
-| `youtube-content-performance.ipynb` | Notebook version of the analysis |
 | `youtube_analysis.py` | Cleaning, median comparison, views models |
 | `youtube_regression.py` | Engagement-rate regressions A to D |
 | `median_views_by_category.png` | Median views by category |
-| `youtube-analysis-summary.xlsx` | Round 1 Excel analysis |
 
 ## How to run
 
